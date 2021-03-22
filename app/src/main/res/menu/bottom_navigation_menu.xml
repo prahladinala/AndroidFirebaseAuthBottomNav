@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/seva"
+        android:enabled="true"
+        android:icon="@drawable/ic_seva"
+        android:title="@string/seva"/>
+    <item
+        android:id="@+id/donation"
+        android:enabled="true"
+        android:icon="@drawable/ic_donation"
+        android:title="@string/donations"/>
+    <item
+        android:id="@+id/report"
+        android:enabled="true"
+        android:icon="@drawable/ic_report"
+        android:title="@string/reports"/>
+    <item
+        android:id="@+id/about"
+        android:enabled="true"
+        android:icon="@drawable/ic_about"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile"/>
+</menu>
